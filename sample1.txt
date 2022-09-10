@@ -1,2 +1,4 @@
 This is just for practice
 To know the awareness on GIT and GITHUB
+comparing the differences.
+git diff
